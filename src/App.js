@@ -1,7 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
 import React, {useState} from 'react'
-import ColorBlock from './colorBlock'
+import ColorBlock from './colorBlock';
+import ColorForm from './ColorForm';
+import './App.css';
 
 
 function App() {
